@@ -288,6 +288,12 @@ const themes = {
     text_color: "C3D1D9",
     bg_color: "0D1117",
   },
+  react_dark: {
+    title_color: "5bcdec",
+    icon_color: "599cab",
+    text_color: "5BCDEC",
+    bg_color: "0D1117",
+  }
 };
 
 module.exports = themes;
